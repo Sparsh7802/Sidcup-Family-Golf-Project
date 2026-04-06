@@ -13,9 +13,6 @@ A visually immersive and highly interactive landing page for Sidcup Family Golf,
 *   *Interactivity:* JavaScript (ES6+)
 *   *Libraries:* GSAP (GreenSock Animation Platform)
 
-## 📸 Preview
-(Tip: Add a screenshot of your project here to make it stand out!)
-
 ## 📂 Project Structure
 *   index.html: Main structure and SEO-friendly markup.
 *   style.css: Custom styling and layout logic.
